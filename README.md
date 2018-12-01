@@ -1,6 +1,5 @@
 # Myspider
-                                    pass
-                                    
+贵有恒，何必三更起五更睡； 最无益，只怕一日暴十寒
  1 scrapy的使用流程
 - 创建项目 scrapy startproject 项目名
 - 创建爬虫 scrapy genspider spider_name allow_domain
