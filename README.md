@@ -16,10 +16,10 @@
 2 crawlspider如何使用
 - 创建爬虫 scarpy genspider -t crawl spider_name allow_domain
 - 完善spider
-    1 start_url：指定start_url，对应的响应会进过rules提取url地址
-    2 完善rules ：添加Rule(LinkExtractor(allow=r'/web/site/info\d+.htm'), callback='parse_item')
-----元组
---- Rule(LinkExtractor,callback，follow)
+   -1 start_url：指定start_url，对应的响应会进过rules提取url地址
+   -2 完善rules ：添加Rule(LinkExtractor(allow=r'/web/site/info\d+.htm'), callback='parse_item')
+     -元组
+     - Rule(LinkExtractor,callback，follow)
 ----- LinkExtractor 连接提取器，提取url
 ----- callback url的响应会交给该callback处理
 ----- follow= True url的响应会继续被Rule提取地址
