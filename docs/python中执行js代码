@@ -1,0 +1,48 @@
+转：http://www.cnblogs.com/rzhang/archive/2011/12/30/execute-javascript-in-python.html
+在Python中执行javascript
+     在使用python抓取网页的过程中，有的时候需要执行某些简单的javascript，以获得自己需要的内容，例如执行js里面的document.write
+或者document.getElementById等。自己解析js代码显然有点吃力不讨好，因此最好能找到一些可以解析执行js的python库。google之可以找到
+三个候选者，分别是微软的ScriptControl，v8的python移植PyV8，还有SpiderMonkey的Python移植Python-Spidermonkey。其中ScriptControl
+只能在windows上运行，需要win32com库；PyV8能在windows和*nix上运行，但是需要装PyV8库；而SpiderMonkey是mozilla的js引擎在python上的
+移植，感觉已经不太活跃，因此没用。
+
+    微软的ScriptControl中对执行js最重要的方法就是addObject与eval，通过addObject，我们可以向js执行环境注入一个我们自定义的document
+ 对象，通过eval方法，我们可以执行一段js代码。注入自定义对象需要使用win32com.server.util.wrap方法，将一个python对象包装为COM对象，例
+ 如假设我们想注入一个只实现了write方法的document对象，代码是这样的：
+
+import win32com.server.util, win32com.client
+class win32Doc:
+     _public_methods_ = ['write']
+     def write(self, s):
+             print s
+doc = win32Doc()
+jsengine = win32com.client.Dispatch('MSScriptControl.ScriptControl')
+jsengine.language = 'JavaScript'
+jsengine.allowUI = False
+jsengine.addObject('document', win32com.server.util.wrap(doc))
+jsengine.eval('document.write("hello, world")')
+
+    在windows里运行这段python代码，最终就会打印出hello, world来。如果我们希望从python里读取js通过document.write写入的字符串并进行解析，
+只要给上面的win32Doc类添加对应的方法(例如read)，就可以读取并解析HTML代码，并进行进一步处理了。
+    对PyV8来说，原理也是类似的，不过在具体机制上有所不同而已。在PyV8中需要在初始化的时候加入一个全局对象，其他的对象都是挂在全局对象之下的，
+例如document只是全局对象的一个属性而已(实际上，document对象就是window对象的一个属性么)，当然，这个属性对应的实际上是一个对象。需要注意的是，
+PyV8在处理字符串编码的时候让人很迷惑，在windows下它需要js的编码为UTF8，而在Linux下只要求宽字符串，即python里的unicode，而在内部的字符串都
+是UTF8编码的。至于为何如此，熊猫也骚扰过开发PyV8的flier，貌似是V8自己的feature。示例代码是这样的：
+import PyV8
+class v8Doc(PyV8.JSClass):
+     def write(self, s):
+             print s.decode('utf-8')
+
+class Global(PyV8.JSClass):
+     def __init__(self):
+             self.document = v8Doc()
+
+glob = Global()
+ctxt = PyV8.JSContext(glob)
+ctxt.enter()
+#or ctxt.eval(u'document.write("你好，中国")') for Linux
+ctxt.eval(u'document.write("你好，中国")'.encode('utf-8'))
+
+    上面只是在python里模拟执行js的document.write的大体思路，如果还需要执行其他的js代码对DOM树进行操纵，那就一个个添加对应的方法好了。当然，
+这个添加也要保持一个限度，不然添加的方法太多，代码会非常复杂，相当于自己已经开始实现一个DOM树处理和解析的完全封装了，如果是这样，还不如使用自动
+化接口操纵浏览器，例如通过js/vbs操纵IE，或者在后台进行自动化批处理的话，使用一些headless browser软件，例如phantomjs，这就留待以后再说了。
