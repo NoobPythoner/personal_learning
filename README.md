@@ -1,6 +1,7 @@
 # Myspider
                                                 贵有恒，何必三更起五更睡； 最无益，只怕一日暴十寒
-
+ 
+一  scrapy相关
 1 scrapy的使用流程
 - 创建项目 scrapy startproject 项目名
 - 创建爬虫 scrapy genspider spider_name allow_domain
@@ -29,3 +30,5 @@
   - parse函数不能定义，他有特殊的功能需要实现
   - callback：连接提取器提取出来的url地址对应的响应交给他处理
   - follow：连接提取器提取出来的url地址对应的响应是否继续被rules来过滤
+
+scrapy-redis 多个spider的分布式架构？？？
