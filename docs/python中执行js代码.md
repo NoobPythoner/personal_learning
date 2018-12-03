@@ -1,0 +1,3 @@
+
+
+<a href= "http://www.cnblogs.com/rzhang/archive/2011/12/30/execute-javascript-in-python.html"> python中执行js代码</a>
