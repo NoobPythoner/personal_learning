@@ -26,3 +26,6 @@
 - <a href = "https://juejin.im/post/5ac469ca5188255c27222549">中文分词原理及常用Python中文分词库介绍</a>
 - <a href = "https://juejin.im/post/5b237b45f265da59a90c11d6">自然语言处理中句子相似度计算的几种方法</a>
 - <a href = "https://www.cnblogs.com/5poi/">python数据挖掘相关算法</a>
+
+
+## 大数据相关
