@@ -28,3 +28,8 @@
   - parse函数不能定义，他有特殊的功能需要实现
   - callback：连接提取器提取出来的url地址对应的响应交给他处理
   - follow：连接提取器提取出来的url地址对应的响应是否继续被rules来过滤
+- 一些参考文章：
+ - <a href="https://www.jianshu.com/p/cd4054bbc757/">基于Scrapy-redis的分布式爬虫设计</a>
+ - <a href="https://www.cnblogs.com/pythoner6833/p/9148937.html">使用scrapy-redis搭建分布式爬虫环境</a>
+ - <a href=""> </a>
+ - <a href=""> </a>
