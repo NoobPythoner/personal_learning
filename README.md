@@ -7,9 +7,9 @@
 * 4 [scrapy-redis多个spider的分布式架构](./spider/scrapy-redis多个spider的分布式架构)
 * 5 <a href = "https://juejin.im/post/5b430456e51d45198a2ea433">异步协程爬虫相关</a>
 * 6 <a href="https://blog.csdn.net/haluoluo211/article/details/77657723">python scrapy多进程新闻爬虫</a>
-* <a href = "https://juejin.im/user/58131b84da2f60005db28799/posts"> 《python网络爬虫实战》节选:scrapy部署+middleware配置等</a>
-* <a href = "https://piaosanlang.gitbooks.io/spiders/content/">不错的爬虫教程</a>
-* <a href="https://www.cnblogs.com/psv-fuyang/articles/7891897.html">Scrapy-Redis分布式爬虫框架详细配置代码</a>
+* ++<a href = "https://juejin.im/user/58131b84da2f60005db28799/posts"> 《python网络爬虫实战》节选:scrapy部署+middleware配置等</a>
+* ++<a href = "https://piaosanlang.gitbooks.io/spiders/content/">不错的爬虫教程</a>
+* ++<a href="https://www.cnblogs.com/psv-fuyang/articles/7891897.html">Scrapy-Redis分布式爬虫框架详细配置代码</a>
 ## 算法与数据结构
 
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
