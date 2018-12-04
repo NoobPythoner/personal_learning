@@ -9,7 +9,7 @@
 
 ## 算法与数据结构
 
-* 1 [二叉树相关](./algorithmsanddatastructure/二叉树相关（创建及遍历）.md)
+* 1 [二叉树相关](./algorithms-and-data-structure/二叉树相关（创建及遍历）.md)
 
 
 ## 概率论与数理统计
