@@ -1,4 +1,3 @@
-# personal_learning
                                          贵有恒,何必三更起五更睡；最无益，只怕一日暴十寒
  
 ## 爬虫相关
@@ -7,3 +6,16 @@
 * 3 [scrapy基本操作](./spider/scrapy基本操作.md)
 * 4 [scrapy-redis多个spider的分布式架构](./spider/scrapy-redis多个spider的分布式架构)
 
+
+##算法与数据结构
+
+
+
+
+##概率论与数理统计
+
+
+
+
+
+## 数据分析 数据挖掘  机器学习
