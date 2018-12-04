@@ -11,7 +11,6 @@
 
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
 * 2 <a href = "https://www.yiibai.com/python/py_data_structure">Python数据结构</a>
-
 * [二叉树相关](./algorithms-and-data-structure/二叉树相关（创建及遍历）.md)
 
 ## 概率论与数理统计
