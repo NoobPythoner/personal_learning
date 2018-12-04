@@ -5,6 +5,7 @@
 * 2 [根据匿名程度区分代理](./spider/根据匿名程度区分代理)
 * 3 [scrapy基本操作](./spider/scrapy基本操作.md)
 * 4 [scrapy-redis多个spider的分布式架构](./spider/scrapy-redis多个spider的分布式架构)
+* 5 <a href = "https://juejin.im/post/5b430456e51d45198a2ea433">异步协程爬虫相关</a>
 * <a href = "https://juejin.im/user/58131b84da2f60005db28799/posts"> 《python网络爬虫实战》节选:scrapy部署+middleware配置等</a>
 
 ## 算法与数据结构
