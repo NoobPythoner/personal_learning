@@ -6,7 +6,7 @@
 - <a href = "https://www.cnblogs.com/5poi/">python数据挖掘相关算法</a>
 - <a href = "http://www.ruanyifeng.com/blog/2013/03/tf-idf.html">TF-IDF与余弦相似性的应用（一）：自动提取关键词</a>
 - <a href = "http://www.ruanyifeng.com/blog/2013/03/cosine_similarity.html">TF-IDF与余弦相似性的应用（二）：找出相似文章</a>
-- [分类算法](./personal_learning/data_analysis/分类算法.md)
+- [分类算法](personal_learning/data_analysis/分类算法.md)
 ## 爬虫相关
 * 1 [python中执行js代码涉及的类库及实际应用](./spider/python中执行js代码.md)
 * 2 [根据匿名程度区分代理](./spider/根据匿名程度区分代理)
