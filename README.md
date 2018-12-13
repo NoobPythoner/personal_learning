@@ -24,9 +24,9 @@
 * [二叉树相关](./algorithms-and-data-structure/二叉树相关（创建及遍历）.md)
 
 ## 数学相关（概率论，线性代数，数值分析）
-[高等数值分析](http://boya.xmu.edu.cn/hhal/hhalf.htm)
-[复旦大学线性代数课件](http://fdjpkc.fudan.edu.cn/d201320/main.htm)
- [线性代数课件](http://xxds.ayit.edu.cn/ktjx/dmtkj.htm)
+* [高等数值分析](http://boya.xmu.edu.cn/hhal/hhalf.htm)
+* [复旦大学线性代数课件](http://fdjpkc.fudan.edu.cn/d201320/main.htm)
+* [线性代数课件](http://xxds.ayit.edu.cn/ktjx/dmtkj.htm)
 
 
 ## 大数据相关
