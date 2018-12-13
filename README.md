@@ -25,7 +25,7 @@
 
 ## 数学相关（概率论，线性代数，数值分析）
 [高等数值分析](http://boya.xmu.edu.cn/hhal/hhalf.htm)
-  pass
+
 
 
 ## 大数据相关
