@@ -31,5 +31,6 @@
 * [复旦大学线性代数课件](http://fdjpkc.fudan.edu.cn/d201320/main.htm)
 * [线性代数课件](http://xxds.ayit.edu.cn/ktjx/dmtkj.htm)
 * SVD奇异值分解？？  向量，矩阵
+* [全概率公式、贝叶斯公式推导过程](https://www.cnblogs.com/ohshit/p/5629581.html)
 ## 大数据相关
  pass
