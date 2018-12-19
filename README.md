@@ -30,7 +30,8 @@
 * [高等数值分析](http://boya.xmu.edu.cn/hhal/hhalf.htm)
 * [复旦大学线性代数课件](http://fdjpkc.fudan.edu.cn/d201320/main.htm)
 * [线性代数课件](http://xxds.ayit.edu.cn/ktjx/dmtkj.htm)
-* SVD奇异值分解？？  向量，矩阵
+* [SVD奇异值分解原理和在降维中的应用] (http://www.cnblogs.com/pinard/p/6251584.html)
+* 向量，矩阵
 * [全概率公式、贝叶斯公式推导过程](https://www.cnblogs.com/ohshit/p/5629581.html)
 ## 大数据相关
  pass
