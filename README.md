@@ -28,7 +28,7 @@
 
 ## 数学相关（概率论，线性代数，数值分析）
 * [高等数值分析](http://boya.xmu.edu.cn/hhal/hhalf.htm)
-* [复旦大学线性代数课件](http://fdjpkc.fudan.edu.cn/d201320/main.htm)
+* [线性代数知识](https://blog.csdn.net/longxinchen_ml/article/details/51629328)
 * [复旦大学高等数学多媒体课件](http://math.fudan.edu.cn/gdsx/TUSG.HTM)
 * [线性代数课件](http://xxds.ayit.edu.cn/ktjx/dmtkj.htm)
 * [SVD奇异值分解原理和在降维中的应用](http://www.cnblogs.com/pinard/p/6251584.html)
