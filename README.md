@@ -30,7 +30,7 @@
 * [高等数值分析](http://boya.xmu.edu.cn/hhal/hhalf.htm)
 * [线性代数知识](https://blog.csdn.net/longxinchen_ml/article/details/51629328)
 * [复旦大学高等数学多媒体课件](http://math.fudan.edu.cn/gdsx/TUSG.HTM)
-* [线性代数课件](http://xxds.ayit.edu.cn/ktjx/dmtkj.htm)
+* [线性代数课件](http://linear-algebra-teaching.cn/%E8%AF%BE%E7%A8%8B%E8%AE%B2%E4%B9%89.html)
 * [SVD奇异值分解原理和在降维中的应用](http://www.cnblogs.com/pinard/p/6251584.html)
 * 向量，矩阵
 * [全概率公式、贝叶斯公式推导过程](https://www.cnblogs.com/ohshit/p/5629581.html)
