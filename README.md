@@ -21,7 +21,7 @@
 * ++<a href = "https://piaosanlang.gitbooks.io/spiders/content/">不错的爬虫教程</a>
 * ++<a href="https://www.cnblogs.com/psv-fuyang/articles/7891897.html">Scrapy-Redis分布式爬虫框架详细配置代码</a>
 ## 算法与数据结构
-
+* [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
 * 2 <a href = "https://www.yiibai.com/python/py_data_structure">Python数据结构</a>
 * [二叉树相关](./algorithms-and-data-structure/二叉树相关（创建及遍历）.md)
