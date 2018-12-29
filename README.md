@@ -34,5 +34,6 @@
 * [SVD奇异值分解原理和在降维中的应用](http://www.cnblogs.com/pinard/p/6251584.html)
 * [极大似然估计详解](https://blog.csdn.net/zengxiantao1994/article/details/72787849)
 * [全概率公式、贝叶斯公式推导过程](https://www.cnblogs.com/ohshit/p/5629581.html)
+* [PCA的数学原理](http://blog.codinglabs.org/articles/pca-tutorial.html)
 ## 大数据相关
  pass
