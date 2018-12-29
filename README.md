@@ -32,7 +32,7 @@
 * [复旦大学高等数学多媒体课件](http://math.fudan.edu.cn/gdsx/TUSG.HTM)
 * [线性代数课程](http://dec3.jlu.edu.cn/webcourse/t000022/teach/index.htm)
 * [SVD奇异值分解原理和在降维中的应用](http://www.cnblogs.com/pinard/p/6251584.html)
-* 向量，矩阵
+* [极大似然估计详解](https://blog.csdn.net/zengxiantao1994/article/details/72787849)
 * [全概率公式、贝叶斯公式推导过程](https://www.cnblogs.com/ohshit/p/5629581.html)
 ## 大数据相关
  pass
