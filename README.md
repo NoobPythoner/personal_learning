@@ -25,6 +25,7 @@
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
 * 2 <a href = "https://www.yiibai.com/python/py_data_structure">Python数据结构</a>
 * [二叉树相关](./algorithms-and-data-structure/二叉树相关（创建及遍历）.md)
+* [动态规划(DP)的整理-Python描述](https://blog.csdn.net/mrlevo520/article/details/75676160)
 
 ## 数学相关（概率论，线性代数，数值分析）
 * [高等数值分析](http://boya.xmu.edu.cn/hhal/hhalf.htm)
