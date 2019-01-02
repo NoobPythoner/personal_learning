@@ -37,5 +37,7 @@
 * [极大似然估计详解](https://blog.csdn.net/zengxiantao1994/article/details/72787849)
 * [全概率公式、贝叶斯公式推导过程](https://www.cnblogs.com/ohshit/p/5629581.html)
 * [PCA的数学原理](http://blog.codinglabs.org/articles/pca-tutorial.html)
+* [中心化（又叫零均值化）和标准化（又叫归一化）](https://blog.csdn.net/GoodShot/article/details/80373372)
+* [数据标准化/归一化normalization](https://blog.csdn.net/goodshot/article/details/79488629)
 ## 大数据相关
  pass
