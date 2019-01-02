@@ -40,5 +40,6 @@
 * [中心化（又叫零均值化）和标准化（又叫归一化）](https://blog.csdn.net/GoodShot/article/details/80373372)
 * [数据标准化/归一化normalization](https://blog.csdn.net/goodshot/article/details/79488629)
 * [Scikit-learn：数据预处理Preprocessing data](https://blog.csdn.net/pipisorry/article/details/52247679)
+* [最通俗易懂的PCA主成分分析推导](https://blog.csdn.net/u012526436/article/details/80868294)
 ## 大数据相关
  pass
