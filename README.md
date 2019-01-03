@@ -44,3 +44,5 @@
 * [最通俗易懂的PCA主成分分析推导](https://blog.csdn.net/u012526436/article/details/80868294)
 ## 大数据相关
  pass
+## 其他
+* 科赛-开放数据科学社区(https://www.kesci.com/)
