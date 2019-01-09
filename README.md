@@ -12,17 +12,8 @@
 * [机器学习降维方法](https://www.cnblogs.com/nolonely/p/6435159.html)
 * [机器学习笔记(各类算法原理实现及应用code)](https://blog.csdn.net/gzj_1101/article/category/6991049)
 * [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
-## 爬虫相关
-* 1 [python中执行js代码涉及的类库及实际应用](./spider/python中执行js代码.md)
-* 2 [根据匿名程度区分代理](./spider/根据匿名程度区分代理)
-* 3 [scrapy基本操作](./spider/scrapy基本操作.md)
-* 4 [scrapy-redis多个spider的分布式架构](./spider/scrapy-redis多个spider的分布式架构)
-* 5 <a href = "https://juejin.im/post/5b430456e51d45198a2ea433">异步协程爬虫相关</a>
-* 6 <a href="https://blog.csdn.net/haluoluo211/article/details/77657723">python scrapy多进程新闻爬虫</a>
-* ++<a href = "https://juejin.im/user/58131b84da2f60005db28799/posts">《python网络爬虫实战》节选:scrapy部署+middleware配置等</a>
-* ++<a href = "https://piaosanlang.gitbooks.io/spiders/content/">不错的爬虫教程</a>
-* ++<a href="https://www.cnblogs.com/psv-fuyang/articles/7891897.html">Scrapy-Redis分布式爬虫框架详细配置代码</a>
-* [python浮点运算相关](https://blog.csdn.net/weixin_39202006/article/details/79156033)
+* [sklearn user guide](https://scikit-learn.org/stable/user_guide.html)
+
 ## 算法与数据结构
 * [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
@@ -45,5 +36,16 @@
 * [最通俗易懂的PCA主成分分析推导](https://blog.csdn.net/u012526436/article/details/80868294)
 ## 大数据相关
  pass
+## 爬虫相关
+* 1 [python中执行js代码涉及的类库及实际应用](./spider/python中执行js代码.md)
+* 2 [根据匿名程度区分代理](./spider/根据匿名程度区分代理)
+* 3 [scrapy基本操作](./spider/scrapy基本操作.md)
+* 4 [scrapy-redis多个spider的分布式架构](./spider/scrapy-redis多个spider的分布式架构)
+* 5 <a href = "https://juejin.im/post/5b430456e51d45198a2ea433">异步协程爬虫相关</a>
+* 6 <a href="https://blog.csdn.net/haluoluo211/article/details/77657723">python scrapy多进程新闻爬虫</a>
+* ++<a href = "https://juejin.im/user/58131b84da2f60005db28799/posts">《python网络爬虫实战》节选:scrapy部署+middleware配置等</a>
+* ++<a href = "https://piaosanlang.gitbooks.io/spiders/content/">不错的爬虫教程</a>
+* ++<a href="https://www.cnblogs.com/psv-fuyang/articles/7891897.html">Scrapy-Redis分布式爬虫框架详细配置代码</a>
+* [python浮点运算相关](https://blog.csdn.net/weixin_39202006/article/details/79156033)
 ## 其他
 * 科赛-开放数据科学社区(https://www.kesci.com/)
