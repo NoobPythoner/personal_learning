@@ -13,6 +13,7 @@
 * [机器学习笔记(各类算法原理实现及应用code)](https://blog.csdn.net/gzj_1101/article/category/6991049)
 * [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
 * [sklearn user guide](https://scikit-learn.org/stable/user_guide.html)
+* [python自然语言处理](https://usyiyi.github.io/nlp-py-2e-zh/)
 
 ## 算法与数据结构
 * [python基础总结](./)
