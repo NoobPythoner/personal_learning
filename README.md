@@ -14,6 +14,8 @@
 * [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
 * [sklearn user guide](https://scikit-learn.org/stable/user_guide.html)
 * [python自然语言处理](https://usyiyi.github.io/nlp-py-2e-zh/)
+## 深度学习
+* [动手深度学习（书籍）](http://zh.d2l.ai/chapter_introduction/index.html)
 
 ## 算法与数据结构
 * [python基础总结](./)
