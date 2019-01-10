@@ -11,10 +11,10 @@
 * [深度学习开放数据集](https://blog.csdn.net/yifen4234/article/details/80163407)
 * [机器学习降维方法](https://www.cnblogs.com/nolonely/p/6435159.html)
 * [机器学习笔记(各类算法原理实现及应用code)](https://blog.csdn.net/gzj_1101/article/category/6991049)
-* [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
 * [sklearn user guide](https://scikit-learn.org/stable/user_guide.html)
 
 ## 深度学习
+* [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
 * [动手深度学习（书籍）](http://zh.d2l.ai/chapter_introduction/index.html)
 * [python自然语言处理](https://usyiyi.github.io/nlp-py-2e-zh/)
 ## 算法与数据结构
