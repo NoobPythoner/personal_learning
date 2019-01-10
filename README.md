@@ -15,7 +15,7 @@
 
 ## 深度学习（图像和文本处理）
 * [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
-* [动手深度学习（书籍）](http://zh.d2l.ai/chapter_introduction/index.html)
+* [动手深度学习（书籍）](http://zh.d2l.ai/chapter_introduction/index.html)  *******
 * [python自然语言处理](https://usyiyi.github.io/nlp-py-2e-zh/)
 * [python openCv教程](http://ex2tron.wang/)
 * [神经网络与深度学习](https://nndl.github.io/)
