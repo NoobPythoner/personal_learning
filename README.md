@@ -19,6 +19,7 @@
 * [python自然语言处理](https://usyiyi.github.io/nlp-py-2e-zh/)
 * [python openCv教程](http://ex2tron.wang/)
 * [神经网络与深度学习](https://nndl.github.io/)
+* [mxnet python api](https://mxnet.incubator.apache.org/api/python/index.html)
 ## 算法与数据结构
 * [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
