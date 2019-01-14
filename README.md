@@ -40,6 +40,7 @@
 * [数据标准化/归一化normalization](https://blog.csdn.net/goodshot/article/details/79488629)
 * [Scikit-learn：数据预处理Preprocessing data](https://blog.csdn.net/pipisorry/article/details/52247679)
 * [最通俗易懂的PCA主成分分析推导](https://blog.csdn.net/u012526436/article/details/80868294)
+* [批量梯度下降(BGD)、随机梯度下降(SGD)以及小批量梯度下降(MBGD)的理解](https://www.cnblogs.com/lliuye/p/9451903.html)
 ## 大数据相关
  pass
 ## 爬虫相关
