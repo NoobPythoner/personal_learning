@@ -20,6 +20,7 @@
 * [python openCv教程](http://ex2tron.wang/)
 * [神经网络与深度学习](https://nndl.github.io/)
 * [mxnet python api](https://mxnet.incubator.apache.org/api/python/index.html)
+* [Deep Learning（深度学习）学习笔记整理系列之（七）](https://blog.csdn.net/zouxy09/article/details/8781543/)
 ## 算法与数据结构
 * [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
