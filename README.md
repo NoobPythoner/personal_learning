@@ -22,6 +22,7 @@
 * [mxnet python api](https://mxnet.incubator.apache.org/api/python/index.html)
 * [Deep Learning（深度学习）学习笔记整理系列](https://blog.csdn.net/zouxy09/article/category/1387932)
 * [循环神经网络（RNN）原理通俗解释](https://blog.csdn.net/qq_39422642/article/details/78676567)
+* [TensorFlow教程——梯度爆炸与梯度裁剪](https://blog.csdn.net/guolindonggld/article/details/79547284)
 ## 算法与数据结构
 * [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
