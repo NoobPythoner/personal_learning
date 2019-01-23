@@ -24,6 +24,8 @@
 * [循环神经网络（RNN）原理通俗解释](https://blog.csdn.net/qq_39422642/article/details/78676567)
 * [TensorFlow教程——梯度爆炸与梯度裁剪](https://blog.csdn.net/guolindonggld/article/details/79547284)
 * [大话深度残差网络（DRN）ResNet网络原理](https://my.oschina.net/u/876354/blog/1622896)
+* [对于全连接层的理解](https://blog.csdn.net/gyh_420/article/details/78569225)
+* [全连接层的作用](https://blog.csdn.net/tigerda/article/details/78785637)
 ## 算法与数据结构
 * [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
