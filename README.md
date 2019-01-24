@@ -26,6 +26,8 @@
 * [大话深度残差网络（DRN）ResNet网络原理](https://my.oschina.net/u/876354/blog/1622896)
 * [对于全连接层的理解](https://blog.csdn.net/gyh_420/article/details/78569225)
 * [全连接层的作用](https://blog.csdn.net/tigerda/article/details/78785637)
+* [用深度学习（CNN RNN Attention）解决大规模文本分类问题 - 综述和实践](https://www.jianshu.com/p/fe2134f1a542)
+* [深度学习网络调参技巧](https://zhuanlan.zhihu.com/p/24720954?utm_source=zhihu)
 ## 算法与数据结构
 * [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
