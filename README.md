@@ -30,6 +30,7 @@
 * [深度学习网络调参技巧](https://zhuanlan.zhihu.com/p/24720954?utm_source=zhihu)
 * [word2vec原理详解](https://blog.csdn.net/itplus/article/details/37969519)
 * [用gensim学习word2vec](https://www.cnblogs.com/pinard/p/7278324.html)
+* [TensorFlow学习（十三）：构造LSTM超长简明教程](https://blog.csdn.net/xierhacker/article/details/78772560)
 ## 算法与数据结构
 * [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
