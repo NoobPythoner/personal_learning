@@ -54,8 +54,6 @@
 * [最通俗易懂的PCA主成分分析推导](https://blog.csdn.net/u012526436/article/details/80868294)
 * [批量梯度下降(BGD)、随机梯度下降(SGD)以及小批量梯度下降(MBGD)的理解](https://www.cnblogs.com/lliuye/p/9451903.html)
 * [一文搞懂交叉熵在机器学习中的使用，透彻理解交叉熵背后的直觉](https://blog.csdn.net/tsyccnh/article/details/79163834)
-## 大数据相关
- pass
 ## 爬虫相关
 * 1 [python中执行js代码涉及的类库及实际应用](./spider/python中执行js代码.md)
 * 2 [根据匿名程度区分代理](./spider/根据匿名程度区分代理)
