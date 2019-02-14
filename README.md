@@ -32,6 +32,7 @@
 * [用gensim学习word2vec](https://www.cnblogs.com/pinard/p/7278324.html)
 * [TensorFlow学习（十三）：构造LSTM超长简明教程](https://blog.csdn.net/xierhacker/article/details/78772560)
 * [PyTorch深度学习：60分钟入门(Translation)](https://zhuanlan.zhihu.com/p/25572330)
+* [微信高级研究员解析深度学习在NLP中的发展和应用](https://blog.csdn.net/guleileo/article/details/81161439)
 ## 算法与数据结构
 * [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
