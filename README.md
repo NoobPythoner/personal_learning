@@ -35,6 +35,7 @@
 * [微信高级研究员解析深度学习在NLP中的发展和应用](https://blog.csdn.net/guleileo/article/details/81161439)
 * [ApacheCN 中文开源组织-综合资源网站](http://www.apachecn.org/)
 * [机器学习中的 precision、recall、accuracy、F1 Score](https://www.cnblogs.com/weedboy/p/7072010.html)
+* [牢记分类指标：准确率、精确率、召回率、F1 score以及ROC](https://www.jianshu.com/p/1afbda3a04ab)
 ## 算法与数据结构
 * [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
