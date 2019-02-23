@@ -34,6 +34,7 @@
 * [PyTorch深度学习：60分钟入门(Translation)](https://zhuanlan.zhihu.com/p/25572330)
 * [微信高级研究员解析深度学习在NLP中的发展和应用](https://blog.csdn.net/guleileo/article/details/81161439)
 * [ApacheCN 中文开源组织-综合资源网站](http://www.apachecn.org/)
+* [机器学习中的 precision、recall、accuracy、F1 Score](https://www.cnblogs.com/weedboy/p/7072010.html)
 ## 算法与数据结构
 * [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
