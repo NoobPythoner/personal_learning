@@ -32,6 +32,7 @@
 * [全连接层的作用](https://blog.csdn.net/tigerda/article/details/78785637)
 * [用深度学习（CNN RNN Attention）解决大规模文本分类问题 - 综述和实践](https://www.jianshu.com/p/fe2134f1a542)
 * [深度学习网络调参技巧](https://zhuanlan.zhihu.com/p/24720954?utm_source=zhihu)
+* [深度学习调参有哪些技巧？](https://www.zhihu.com/question/25097993)
 * [word2vec原理详解](https://blog.csdn.net/itplus/article/details/37969519)
 * [用gensim学习word2vec](https://www.cnblogs.com/pinard/p/7278324.html)
 * [TensorFlow学习（十三）：构造LSTM超长简明教程](https://blog.csdn.net/xierhacker/article/details/78772560)
