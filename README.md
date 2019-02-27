@@ -15,7 +15,7 @@
 * [python官方文档](https://docs.python.org/zh-cn/3.7/library/index.html)
 * [python常用标准库介绍](https://blog.csdn.net/liujinwei2005/article/details/76725422)
 * [7 幅思维导图：Python 常用标准库及拓展知识](https://www.jianshu.com/p/782eae215229)
-
+* [10分钟介绍Python语言的常用标准库](https://www.douban.com/group/topic/120017085/)
 ## 深度学习（图像和文本处理）
 * [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
 * [动手深度学习（书籍）](http://zh.d2l.ai/chapter_introduction/index.html)  *******
