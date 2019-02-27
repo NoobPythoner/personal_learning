@@ -12,6 +12,8 @@
 * [机器学习降维方法](https://www.cnblogs.com/nolonely/p/6435159.html)
 * [机器学习笔记(各类算法原理实现及应用code)](https://blog.csdn.net/gzj_1101/article/category/6991049)
 * [sklearn user guide](https://scikit-learn.org/stable/user_guide.html)
+* [python官方文档](https://docs.python.org/zh-cn/3.7/library/index.html)
+* [python常用标准库介绍](https://blog.csdn.net/liujinwei2005/article/details/76725422)
 
 ## 深度学习（图像和文本处理）
 * [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
