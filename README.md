@@ -46,6 +46,7 @@
 * [java jdk api开发帮助文档](https://docs.oracle.com/en/java/javase/12/)
 * [java 全文检索框架lucene](https://www.cnblogs.com/daxiangwuxing/p/7538881.html)
 * [什么是Solr](https://www.cnblogs.com/peaceliu/p/7786851.html)
+* [spark MLlib机器学习教程-----入门教程【一】](https://blog.csdn.net/qq_30498935/article/details/82352348)
 ## NLP相关
 [深度学习：通过神经网络提取文本摘要【包括新闻、博客等】](http://www.aboutyun.com/thread-23454-1-1.html)
 
