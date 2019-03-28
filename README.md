@@ -44,6 +44,7 @@
 * [牢记分类指标：准确率、精确率、召回率、F1 score以及ROC](https://www.jianshu.com/p/1afbda3a04ab)
 ## 大数据
 * [java jdk api开发帮助文档](https://docs.oracle.com/en/java/javase/12/)
+* [java 全文检索框架lucene](https://www.cnblogs.com/daxiangwuxing/p/7538881.html)
 ## NLP相关
 [深度学习：通过神经网络提取文本摘要【包括新闻、博客等】](http://www.aboutyun.com/thread-23454-1-1.html)
 
