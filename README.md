@@ -51,7 +51,8 @@
 ## NLP相关
 * [深度学习：通过神经网络提取文本摘要【包括新闻、博客等】](http://www.aboutyun.com/thread-23454-1-1.html)
 * [Python数据挖掘－文本挖掘](https://blog.csdn.net/jacky_zhuyuanlu/article/details/77963518)
-
+* [实体关系抽取 entity relation extraction 文献阅读总结](https://www.cnblogs.com/theodoric008/p/7874373.html)
+* [知识图谱概述及技术总览](http://blog.leanote.com/post/ruishengcao@gmail.com/知识图谱概述及技术总览)
 ## 算法与数据结构
 * [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
@@ -74,6 +75,7 @@
 * [最通俗易懂的PCA主成分分析推导](https://blog.csdn.net/u012526436/article/details/80868294)
 * [批量梯度下降(BGD)、随机梯度下降(SGD)以及小批量梯度下降(MBGD)的理解](https://www.cnblogs.com/lliuye/p/9451903.html)
 * [一文搞懂交叉熵在机器学习中的使用，透彻理解交叉熵背后的直觉](https://blog.csdn.net/tsyccnh/article/details/79163834)
+* [知识图谱的技术与应用](https://blog.csdn.net/binbigdata/article/details/80705246)
 ## 爬虫相关
 * 1 [python中执行js代码涉及的类库及实际应用](./spider/python中执行js代码.md)
 * 2 [根据匿名程度区分代理](./spider/根据匿名程度区分代理)
