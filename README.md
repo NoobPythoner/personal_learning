@@ -18,6 +18,7 @@
 * [10分钟介绍Python语言的常用标准库](https://www.douban.com/group/topic/120017085/)
 * [机器学习缺失值处理方法汇总](https://blog.csdn.net/w352986331qq/article/details/78639233)
 * [linux更换下载源](https://www.jianshu.com/p/aad991e18ca9)
+* [Pandas 十分钟入门](https://blog.csdn.net/zhu418766417/article/details/52718063)
 ## 深度学习（图像和文本处理）
 * [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
 * [动手深度学习（书籍）](http://zh.d2l.ai/chapter_introduction/index.html)  *******
