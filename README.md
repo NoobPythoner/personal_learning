@@ -57,6 +57,7 @@
 * [实体关系抽取 entity relation extraction 文献阅读总结](https://www.cnblogs.com/theodoric008/p/7874373.html)
 * [知识图谱概述及技术总览](http://blog.leanote.com/post/ruishengcao@gmail.com/知识图谱概述及技术总览)
 * [1. 通俗易懂解释知识图谱（Knowledge Graph）](https://www.cnblogs.com/huangyc/p/10043749.html)
+* [[NLP自然语言处理]谷歌BERT模型深度解析](https://blog.csdn.net/qq_39521554/article/details/83062188)
 ## 算法与数据结构
 * [python基础总结](./)
 * 1 <a href= "https://www.yiibai.com/data_structure">数据结构</a>
