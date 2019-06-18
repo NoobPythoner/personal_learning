@@ -1,0 +1,14 @@
+import pandas as pd
+import numpy as np
+users = pd.read_excel("C:/Users/Administrator/Desktop/下载表格.xls",names=["日期/序号","交易日期","交易时间","本方单位","本方账号","本方开户行","本方余額","对方单位","对方账号","收方金额","付方金额","摘要","币种","条数","用途"]) 
+users.drop([0,1,2,3],axis=0)
+users = users.drop(["日期/序号","交易时间","本方开户行","本方余額","对方账号","付方金额","币种","条数","用途"],axis=1)
+print(users) 
+#print(users1)
+#删除/选取某列含有特定数值的行r
+users1=users[users['本方账号'].isin(["NaN"])]
+users1[users1['本方账号'].isin(["NaN"])]  #选取df1中A列包含数字1的行
+ 
+users2=users1[~users1['本方账号'].isin(["NaN"])]
+#通过~取反，选取不包含数字1的行
+users2.head(10)
