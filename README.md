@@ -100,3 +100,4 @@
 * [python浮点运算相关](https://blog.csdn.net/weixin_39202006/article/details/79156033)
 ## 其他
 * 科赛-开放数据科学社区(https://www.kesci.com/)
+* tinymind (https://www.tinymind.cn/)
