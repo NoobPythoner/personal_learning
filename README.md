@@ -23,8 +23,8 @@
 * [python通过py2neo模块操作Neo4j图数据库](https://www.jianshu.com/p/da84712ef62b)
 * [inner join 与 left join 之间的区别](https://www.cnblogs.com/assasion/p/7768931.html)
 ## 深度学习（图像和文本处理）
-*[基于LSTM的中文文本多分类实战](https://blog.csdn.net/weixin_42608414/article/details/89856566)
-*[使用python和sklearn的中文文本多分类实战开发](https://blog.csdn.net/weixin_42608414/article/details/88046380)
+* [基于LSTM的中文文本多分类实战](https://blog.csdn.net/weixin_42608414/article/details/89856566)
+* [使用python和sklearn的中文文本多分类实战开发](https://blog.csdn.net/weixin_42608414/article/details/88046380)
 * [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
 * [动手深度学习（书籍）](http://zh.d2l.ai/chapter_introduction/index.html)  *******
 * [python自然语言处理](https://usyiyi.github.io/nlp-py-2e-zh/)
