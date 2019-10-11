@@ -50,7 +50,7 @@
 * [牢记分类指标：准确率、精确率、召回率、F1 score以及ROC](https://www.jianshu.com/p/1afbda3a04ab)
 * [图解Transformer](https://blog.csdn.net/qq_41664845/article/details/84969266)
 * [基于情感词来进行情感分析](http://www.sohu.com/a/242595401_787107)
-
+* [TensorFlow 2.0 教程](https://blog.csdn.net/qq_31456593/article/details/88606284)
 ## 广告+个性化推荐相关
 * [广告CVR一周总结](https://www.cnblogs.com/zhenglz12/p/8646681.html)
 * [程序化广告（二）- 考核指标如CTR/CVR/ROI/ARPU等](https://blog.csdn.net/hemin1003/article/details/81810544)
