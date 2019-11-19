@@ -43,9 +43,9 @@ while True:
             print("报错,错误码: %s" % r.status_code)
             data.append('请求错误')
 
-    path = r'C:\Users\Administrator\Desktop'
-    filename = "result"+count
-    data_result = pd.to_excel(r'C:\Use')
+    path = r'C:\Users\Administrator\Desktop\'
+    filename = "result"+str(count)
+    data_result = pd.to_excel(path+filename)
     count=count+1
 
 
