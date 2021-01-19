@@ -1,4 +1,7 @@
-                                          贵有恒,何必三更起五更睡；最无益，只怕一日暴十寒
+https://www.pythonf.cn/read/22038      Kaggle |研究生入学率预测,kaggle                          
+                                
+                                
+                                贵有恒,何必三更起五更睡；最无益，只怕一日暴十寒
  ## 论文
  * [Cornell University Computer Science](https://arxiv.org/list/cs/recent) 
  
