@@ -1,3 +1,6 @@
+http://memservice.buaa.edu.cn/login?redirect=%2Fapp%2Fmain%2F北航MEM考生服务系统
+
+
 https://www.pythonf.cn/read/22038      Kaggle |研究生入学率预测,kaggle                          
                                 
                                 
