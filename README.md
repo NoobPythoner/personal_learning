@@ -1,7 +1,6 @@
 http://memservice.buaa.edu.cn/login?redirect=%2Fapp%2Fmain%2F北航MEM考生服务系统
 
-
-https://www.pythonf.cn/read/22038      Kaggle |研究生入学率预测,kaggle                          
+                    
                                 
                                 
                                 贵有恒,何必三更起五更睡；最无益，只怕一日暴十寒
@@ -116,3 +115,5 @@ https://www.pythonf.cn/read/22038      Kaggle |研究生入学率预测,kaggle
 ## 其他
 * 科赛-开放数据科学社区(https://www.kesci.com/)
 * tinymind (https://www.tinymind.cn/)
+
+* https://www.pythonf.cn/read/22038      Kaggle |研究生入学率预测,kaggle      
